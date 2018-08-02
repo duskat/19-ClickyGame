@@ -1,0 +1,22 @@
+{
+  "name": "19-clickygame",
+  "version": "1.0.0",
+  "description": "Home work 19 - Clicky Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duskat/19-ClickyGame.git"
+  },
+  "author": "Dzmitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duskat/19-ClickyGame/issues"
+  },
+  "homepage": "https://github.com/duskat/19-ClickyGame#readme",
+  "dependencies": {
+    "npm": "^6.2.0"
+  }
+}
